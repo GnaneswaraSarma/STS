@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyFirstRestApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gnani
+Implementation-Vendor-Id: com.rest.app
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyFirstRestApp
+Created-By: Maven Integration for Eclipse
+

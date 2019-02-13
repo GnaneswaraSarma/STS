@@ -1,0 +1,3 @@
+com\rest\app\controller\MyFirstRestApp.class
+com\rest\app\ServletInitializer.class
+com\rest\app\MyFirstRestAppApplication.class
